@@ -97,6 +97,6 @@ class __TwigTemplate_1d411b760488e94db5be49ca0a8d9b07aaf199a520c8bbe712869adec6f
         </div>
     </div>
 </div>
-", "@WebProfiler/Profiler/header.html.twig", "/home/ayoub/Dev/totallywicked/vendor/symfony/web-profiler-bundle/Resources/views/Profiler/header.html.twig");
+", "@WebProfiler/Profiler/header.html.twig", "/home/ayoub/Dev/dev-test/vendor/symfony/web-profiler-bundle/Resources/views/Profiler/header.html.twig");
     }
 }
